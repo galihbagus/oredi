@@ -1,0 +1,29 @@
+Theme URI: http://portfolio.pixelngrain.com/?p=466
+Theme Version: L1.1
+Theme Date: 2011-12-14
+Theme Author: Pixel n Grain - Jatin Soni
+Theme Author URI: http:///portfolio.pixelngrain.com
+Theme License: GPLv2
+Theme Update Check URI: http://portfolio.pixelngrain.com/?p=466
+
+
+Changelog: Version: L1.1
+
+
+File: qa-theme.php
+
+	1.	Added IE specific function
+	2.	Modified footer copyright function
+
+File: qa-styles.css
+
+	1.	IE7 fix
+	2.	Search box fix
+	3.	Pagination fix
+	4.	Column layout for category page
+	5.	Other cross-browsing issue fix
+	6.	Fix page alignment
+
+File: ie.css (new added)
+
+	1.	Category list fix

@@ -1,0 +1,41 @@
+/*
+	Question2Answer (c) Gideon Greenspan
+
+	http://www.question2answer.org/
+
+	
+	File: qa-theme/Candy/qa-styles.css
+	Version: See define()s at top of qa-include/qa-base.php
+	Description: CSS file for included Candy theme
+
+
+	This program is free software; you can redistribute it and/or
+	modify it under the terms of the GNU General Public License
+	as published by the Free Software Foundation; either version 2
+	of the License, or (at your option) any later version.
+	
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	More about this license: http://www.question2answer.org/license.php
+
+
+	Theme URI: http://portfolio.pixelngrain.com/?p=466
+	Theme Version: L1.1
+	Theme Date: 2011-12-14
+	Theme Author: Pixel n Grain - Jatin Soni
+	Theme Author URI: http:///portfolio.pixelngrain.com
+	Theme License: GPLv2
+	Theme Update Check URI: http://portfolio.pixelngrain.com/?p=466
+	
+	IE specific css
+*/	
+
+.qa-browse-cat-item{
+	float:left;
+	width:208px;
+	display:block;
+	margin:5px 8px;
+}
